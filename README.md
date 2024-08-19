@@ -1,4 +1,6 @@
 Taş Kağıt Makas Oyunu 🪨✂️
+
+
 Hakkında
 Bu Python programı klasik taş, kağıt, makas oyununu simüle eder. Kullanıcı ile bilgisayar arasında oynanan bu oyunda amaç, rakibinden iki tur önce iki galibiyet alarak oyunu kazanmaktır. Oyun, kullanıcı dostu bir arayüze sahiptir ve oyunun kuralları başlangıçta açıklanır.
 
